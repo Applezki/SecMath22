@@ -1,6 +1,11 @@
 ---
 title: "Statistics and Probability"
-author: "Jimenez, Lajola, Salazar"
+author: 
+    -Eloisa Jimenez
+    -Rochelle Salazar
+    -Ryan John Lee Lajola
+date: 02/15/2024
+date-modified: today
 format: html
 editor: visual
 ---
