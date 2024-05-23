@@ -1,11 +1,4 @@
 ---
-title: "Probability of Two Events"
-author: "Eloisa Jimenez, Rochelle Salazar, and Ryan Lajola"
-format: html
-editor: visual
----
-
----
 title: "Statistics and Probability"
 author: 
     -Eloisa Jimenez
