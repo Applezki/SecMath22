@@ -94,3 +94,63 @@ Probability of Not Mutually Exclusive Events For any two events A and B of the s
 
 ![](02.png)
 
+<<<<<<< HEAD
+=======
+Example. A die is rolled once. What is the probability of an even number or a factor of 6 turning up?
+
+Solution: A die has six faces numbered 1 – 6, so, 𝑛(𝑆) = 6. Let event: A = {even number} and B = {factor of 6}
+
+A = {2, 4, 6} B = {1, 2, 3, 6} 𝐴 ∩ 𝐵 = {2, 6}
+
+Now, let’s use the formula
+
+𝑃(𝐴 ∪ 𝐵) = 𝑃(𝐴) + 𝑃(𝐵) − 𝑃(𝐴 ∩ 𝐵) = 3/6 + 4/6 - 2/6 = 5/6
+
+The probability of getting an even number or a factor of 6 is 5/6.
+
+### Activity 1
+
+Direction: Write **ME** if the events are mutually exclusive and **NME** if it is not mutually exclusive.
+
+1.  Drawing ‘a jack’ and ‘a club’ from a standard deck of cards.
+
+2.  Drawing ‘a 7’ and ‘a 4’ from a standard deck of cards.
+
+3.  Picking ‘a blue ball’ and ‘a red ball’ in a basket.
+
+4.  Electing ‘the president’ and ‘the secretary’ of the class.
+
+5.  Getting ‘an even number’ and ‘a factor of 4’ in rolling a fair die once.
+
+### Activity 2
+
+Direction: Solve for its probability of two events. Show your complete solutions.
+
+1.  A card is drawn at random from a standard deck of 52 cards. What is the probability of drawing an ace, a 10 or a king?
+
+2.  In this ‘new normal situation’, nobody can go out without wearing a face mask. Mark has 15 disposable face masks: 4 are red, 6 are blue and 5 are green. What is the probability that he will wear a red or a blue face mask today?
+
+3.  If there is 30% chance of rain on Saturday, 70% chance of rain on Sunday, and 21% chance of rain on Saturday and Sunday, what is the probability that it will rain on either Saturday or Sunday?
+
+4.  Each of the numbers 1 – 30 is written on a slip of paper, rolled and put in a box and mixed thoroughly. One number is picked up at random. Find the probability that the picked number is even or a multiple of 5?
+
+5.  A box contains 2 red, 4 green, 5 blue and 3 yellow marbles. If a single random marble is chosen from the box, what is the probability that it is red or green marble?
+
+6.  In a math class of 30 students, 17 are boys and 13 are girls. On a unit test, 4 boys and 5 girls made an A grade. If a student is chosen at random from the class, what is the probability of choosing a girl or an A student?
+
+7.  A pair of dice is rolled. What is the probability that the two dice show the same number or that the sum of the numbers is less than 5?
+
+8.  If a card is drawn at random from a 52-deck of cards. Find the probability of getting a heart or a diamond.
+
+### Assessment
+
+Direction: Identify whether the events are mutually exclusive and not mutually exclusive. Solve for its probability. Show your complete solutions.
+
+1.  There are 12 DVDs, 7 video games, 14 CDs, and 3 videotapes on Jaime’s bedroom shelf. If Jaime selects an item at random from the shelf, what is the probability that it is a DVD or a video tape?
+
+2.  Karen’s book bag contains 3 novels, 1 biography, and 1 science book. Manny’s book bag contains 1 math book, 2 science books, and 1 poetry book. Each student selects a book at random from his or her bag. What is the probability that either Karen’s book is a novel or Manny’s book is a math book?
+
+3.  Sigmund picked a pair of socks out of his drawer without looking in the drawer. Sigmund has 3 pairs of black dress socks, 4 pairs of brown dress socks, 3 pairs of black sport socks, and 5 pairs of white sport socks. What is the probability that Sigmund will select a pair of black socks or a pair of sport socks?
+
+4.  There are 8 girls and 12 boys in Miss Reading’s homeroom. Five of the girls play sports and 3 do not play sports. Eight of the boys play sports and 4 do not play sports. If a student is selected at random, what is the probability that the student is a boy or plays sports? Express your answer as a fraction.
+>>>>>>> 258b6c9b6f31ca4625b84561a421c062a39562b7
