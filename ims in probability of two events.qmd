@@ -45,11 +45,10 @@ Events:
 
     B = a factor of 4 turning up in rolling a die once
 
-+:------------------------------:+:--------------------------------:+
-| It can happen at the same time | It can't happen at the same time |
-+--------------------------------+----------------------------------+
 |                                |                                  |
-+--------------------------------+----------------------------------+
+|:------------------------------:|:--------------------------------:|
+| It can happen at the same time | It can't happen at the same time |
+|                                |                                  |
 
 Were you able to identify the events that can occur at the same time and the events that cannot occur at the same time?
 
@@ -87,7 +86,7 @@ Solution: A ball cannot be both red and green, so these are mutually exclusive e
 
 The probability that the drawn marble is either red or green is 7/9.
 
-## Probability of Mutually Exclusive Events
+## Probability of Not Mutually Exclusive Events
 
 Probability of Not Mutually Exclusive Events For any two events A and B of the same experiment which are not mutually exclusive events, the probability of the union of A and B is
 
